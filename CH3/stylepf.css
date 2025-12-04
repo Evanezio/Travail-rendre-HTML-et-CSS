@@ -1,0 +1,23 @@
+h1 {
+    font-family: 'Nabla', sans-serif;
+}
+
+body {
+    background: linear-gradient(to right, #268dac, #051768);
+}
+
+.perkcolor {
+    color:yellowgreen
+}
+
+
+.dip {
+    color: orangered;
+}
+
+.loisir {
+    color: orange;
+}
+.droit {
+    float: right;
+}

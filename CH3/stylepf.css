@@ -21,3 +21,43 @@ body {
 .droit {
     float: right;
 }
+
+.element {
+    border-width: 1px;
+    font-size: 25px;
+    background-color: skyblue;
+    border-radius: 10px;
+      box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
+    padding: 1px;
+}
+
+.element2 {
+    border-width: 1px;
+    font-size: 25px;
+    background-color: rgb(220, 235, 135);
+    border-radius: 10px;
+      box-shadow: 6px 6px 25px rgba(0, 0, 0, 0.5);
+    padding: 1px;
+}
+
+.barre {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img:hover{
+    opacity:0.5;
+}
+
+a {
+    text-decoration: none;
+    color: black
+
+}
+
+
+h4:hover{
+    color:#0fb65a;
+    text-decoration: underline;
+}
+
